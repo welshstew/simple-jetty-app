@@ -24,7 +24,7 @@
     <mirror>
       <id>local-nexus</id>
       <name>local nexus</name>
-      <url>https://github.com/welshstew/simple-jetty-app</url>
+      <url>http://10.1.2.4:8081/nexus/content/groups/public</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
